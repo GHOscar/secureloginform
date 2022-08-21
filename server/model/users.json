@@ -1,0 +1,12 @@
+[
+  {
+    "username": "Oscarr",
+    "roles": { 
+      "Editor": 1984, 
+      "User": 2001, 
+      "Admin": 5150 
+    },
+    "password": "$2b$10$Tr5IXkB4K/RHB9lelLtMGOpqfttm2RGe7JJ5RJYTi07T/UKs054KS",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik9zY2FyciIsImlhdCI6MTY0NTA0NDA5MSwiZXhwIjoxNjQ1MDQ0MTA2fQ.uu0PLnum65xh7MVOCYxlbSSgf84prWwB8bCGSuSM3QA"
+  }
+]
